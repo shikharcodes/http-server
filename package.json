@@ -1,0 +1,11 @@
+{
+  "name": "http-server",
+  "description": "a http server developed using NodeJS",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["nodejs", "nodejs-server"],
+  "author": "Shikhar Saxena",
+  "license": "ISC",
+}
